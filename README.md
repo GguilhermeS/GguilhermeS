@@ -25,7 +25,7 @@ Me chamo Guilherme, sou apaixonado por tecnologia e estou sempre em busca de apr
 
 
 
-<h3>Liguagens que tenho um certo conhecimento:</h3>
+<h3>Liguagens e Tecnologias que tenho um certo conhecimento:</h3>
 
 <div style="display:inline_block"><br>
   <img align = "center" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
@@ -34,6 +34,7 @@ Me chamo Guilherme, sou apaixonado por tecnologia e estou sempre em busca de apr
   <img align = "center" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img align = "center" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
   <img align = "center" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" /> 
+  <img align = "center" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 </div>
 
 
@@ -46,8 +47,6 @@ Me chamo Guilherme, sou apaixonado por tecnologia e estou sempre em busca de apr
   <img align = "center" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" /> 
   <img align = "center" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
   <img align = "center" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-  <img align = "center" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-
 </div>
 
 <br>
